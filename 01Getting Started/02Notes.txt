@@ -1,0 +1,10 @@
+helpfull notes
+
+type prop and tab twice to insert code snippet into model class
+
+add model
+	class
+add controler
+	handle request and pass class to view
+add view
+	reference model and show model
